@@ -1,0 +1,7 @@
+this is the sample text file to push the content to the git repository.
+
+will be staging the file first and then ,local repository -> repote repository, (,status,add,commit,push)
+
+
+--adding extra changes
+--adding extra changes
