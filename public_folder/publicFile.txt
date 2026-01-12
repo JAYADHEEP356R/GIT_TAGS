@@ -1,1 +1,5 @@
-buggy code
+this is the pulic file ...
+
+change change to be restored changes
+
+new third line
