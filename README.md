@@ -1,4 +1,4 @@
-## 🔖 Why Use Git Tags?
+## Why Use Git Tags?
 
 - Mark release versions
 - Identify stable builds
@@ -8,20 +8,17 @@
 
 ---
 
-## 🏷️ Types of Git Tags
+## Types of Git Tags
 
-### 1️⃣ Lightweight Tags
+### 1️Lightweight Tags
 - Simple pointer to a commit
 - No extra metadata
 
-### 2️⃣ Annotated Tags (Recommended)
+###  Annotated Tags (Recommended)
 - Stored as full objects
 - Contain author, date, and message
 - Better for releases
 
 ---
 
-## 📌 Creating Tags
 
-### 🔹 Create a Lightweight Tag
-```bash
